@@ -6,8 +6,8 @@ Este repositorio contiene los siguientes archivos SQL:
 - Líneas del Metro  (A,B,K,J,L,H,M,P,T,1,2,O).
 - Geolocalización de cada estación.
 - Integración de las líneas.
-- Tipo de Vehículo (Tren, Telecabina, Tranvía, Autobús,Autobús Eléctrico). En este archivo es importante aclarar que la información aquí suministrada es ficticia, simplemente en base a los vehiculos que posee cada línea se inventó un serial_number y el año corresponde a la inauguración de dicha línea.
-- Y cada uno de los scripts para llevar a cabo la creación e insercesión de datos para cada tabla y su respectiva relación
+- Tipo de Vehículo (Tren, Telecabina, Tranvía, Autobús,Autobús Eléctrico). _En este archivo es importante aclarar que la información aquí suministrada es ficticia, simplemente en base a los vehiculos que posee cada línea se inventó un serial_number y el año corresponde a la inauguración de dicha línea._
+- Y cada uno de los scripts para llevar a cabo la creación e insercesión de datos para cada tabla y su respectiva relación.
 
 
 Los datos fueron tomados de :
